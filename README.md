@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-We're making (die.one)[https://www.die.one].
+We're making [die.one](https://www.die.one).

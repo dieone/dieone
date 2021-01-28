@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 We're making [die.one](https://www.die.one).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6cac510e-22cd-4450-b6ad-4ce4f0324534/deploy-status)](https://app.netlify.com/sites/dieone/deploys)
-
 PGP: [keybase.io/dieone](https://keybase.io/dieone)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6cac510e-22cd-4450-b6ad-4ce4f0324534/deploy-status)](https://app.netlify.com/sites/dieone/deploys)
